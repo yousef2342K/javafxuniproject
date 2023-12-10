@@ -1,0 +1,4 @@
+Dec 09, 2023 3:21:04 PM ATM createAccount
+INFO: New account created: Account ID: 1324
+Dec 09, 2023 3:22:39 PM ATM lambda$start$0
+WARNING: No action selected for account: 

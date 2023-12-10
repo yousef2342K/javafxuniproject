@@ -1,0 +1,11 @@
+.button{
+     -fx-background-color: darkslateblue;
+    -fx-text-fill: white;
+    -fx-font-size: large;
+    
+}
+
+.labl{
+    -fx-font: normal bold 30px 'serif';
+    -fx-background-color: red;
+}
